@@ -1,11 +1,14 @@
+# The Aha Company Brand Identity Standards
+
 <center>
-  <h1><img src="./fulllogo_green.png" alt="The Aha Company" /></h1>
-  <h2>Brand Identity Standards</h2>
+  <img src="./logos/fulllogo_green.png" alt="The Aha Company" width="400px" />
 </center>
 
 # Logo Mark
 
-![logomark](./logomark_green.png)
+<center>
+  <img src="./logos/logomark_green.png" alt="The Aha Company" width="400px" />
+</center>
 
 The logo is a foundational element of the brand identity, serving as the key element for visual brand recognition. The Aha logo mark is a formed in a custom script type lock in a stylized exclamation point holding shape.
 
