@@ -62,3 +62,9 @@ To complement the design and nature of The Aha Company Brand, specific primary b
 ![incorrect logo variations](./readme/incorrect-logo-usage.png)
 
 The Aha logo must maintain accurate presentation within any application. Incorrect use of the logo reflects poorly on the brand and must be corrected in a timely manner. Illustrated below are ways in which the logo should never appear as official representation. Incorrect uses are not limited to these examples. Any use of the logo in question will be addressed for clarification.
+
+# LinkedIn Banner
+
+![The Aha Company LinkedIn banner](./social/linkedin-banner.png)
+
+The official background photo for LinkedIn profiles: [`social/linkedin-banner.png`](./social/linkedin-banner.png). It is exported at 3168 × 792 px, twice LinkedIn's recommended 1584 × 396 px (4:1), so it stays sharp on high-density screens and uploads without cropping. The left third is kept clear for the profile photo. It is sized for personal profiles only: the LinkedIn company page cover uses a wider format.
